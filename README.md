@@ -42,6 +42,9 @@ egisteration Number :212222040128
         android:layout_height="fill_parent"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
 ```
 ## mylist.xml:
 ```
@@ -79,6 +82,9 @@ egisteration Number :212222040128
         <item>Perl</item>
     </string-array>
 </resources>
+
+
+
 ```
 ## MainActivity.java:
 ```
